@@ -1,0 +1,306 @@
+# --- General / OS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+
+# --- Editors / IDEs ---
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Node / JavaScript / TypeScript / Bun ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+.bun/
+dist/
+build/
+out/
+coverage/
+.env
+.env.local
+.env.*.local
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.docusaurus/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+venv/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# --- Java / Kotlin / Gradle / Maven ---
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+target/
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# --- Rust ---
+/target
+**/*.rs.bk
+
+# --- C / C++ ---
+*.d
+*.o
+*.obj
+*.elf
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+*.a
+*.lib
+*.lo
+*.la
+*.lai
+*.slo
+*.sl
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+
+# --- C# / .NET ---
+bin/
+obj/
+packages/
+*.nupkg
+project.lock.json
+.project
+.classpath
+
+# --- Go ---
+/bin/
+/pkg/
+/vendor/
+go.work
+
+# --- Nix ---
+result
+result-*
+
+# --- Terraform ---
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+
+# --- Lua ---
+luac.out
+*.rock
+
+# --- Ruby ---
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+# --- PHP ---
+/vendor/
+.phpunit.result.cache
+
+# --- Docker ---
+.docker/
+docker-compose.override.yml
+
+# --- Ansible ---
+*.retry
+
+# --- Elixir ---
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+
+# --- Dart / Flutter ---
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# --- Haskell ---
+dist
+dist-*
+cabal-dev
+*.o
+*.hi
+*.hie
+*.chi
+*.chs.h
+*.dyn_o
+*.dyn_hi
+.hpc
+.hsenv
+.stack-work/
+/package.yaml
+
+# --- Swift / Objective-C ---
+# Xcode
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.plist.bak
+*.xcuserstate
+
+# --- Zig ---
+zig-out/
+zig-cache/
+
+# --- Julia ---
+*.jl.cov
+*.jl.mem
+
+# --- R ---
+.Rhistory
+.RData
+.Ruserdata
+*-Ex.R
+
+# --- Databases ---
+*.db
+*.sqlite
+*.sqlite3
+*.sql.gz
+
+# --- Documentation ---
+_site/
+docs/_build/
+docs/.vuepress/dist/
+
+# --- Logs ---
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# --- Others ---
+.cache/
+.serverless/
+.terraform/
+.vagrant/
+.node_repl_history
+
+# --- Scala ---
+*.class
+*.log
+.cache
+.cache-main
+.history
+.lib/
+dist/
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.scala_dependencies
+.worksheet
+
+# --- Perl ---
+!Build/
+blib/
+cover_db/
+inc/
+perlmain.c
+pm_to_blib
+*.idn
+*.inline
+*.o
+*.bs
+*.c
+*.out
+*.log
+
+# --- Clojure ---
+/lib/
+/classes/
+/target/
+/checkouts/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+.lein-failures
+.nrepl-port
+.cpcache/
