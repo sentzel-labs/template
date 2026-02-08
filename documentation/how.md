@@ -1,0 +1,4 @@
+- This is the blueprint of the product.
+- Describe technical details and implementation of the product.
+- All kinds of small and large details, from the coding philosophy to the architecture, are covered here.
+- Someone off the street should be able to follow the descriptions in this document and implement this product.

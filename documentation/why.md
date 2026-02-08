@@ -1,0 +1,2 @@
+- Explain why this repository / project / product exists.
+- Use this document as your lean canvas.

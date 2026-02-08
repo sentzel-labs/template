@@ -1,0 +1,2 @@
+- Define business and other requirements here.
+- Effectively, this is a file that describes exactly what the product is.
